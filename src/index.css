@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(-90deg, red, yellow);
+  font-family: "Courier New", Courier, monospace;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+button{
+  cursor: pointer;
+}
